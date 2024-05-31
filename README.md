@@ -1,4 +1,6 @@
 # Recipe App
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1d8219ac-5d0e-4e1d-ac69-fbbf504ef67a/deploy-status)](https://app.netlify.com/sites/beautiful-kataifi-c3dc96/deploys)
+
 
 Welcome to the Recipe App! This application allows you to search for recipes, view details, and save your favorites. It is built using React and the Spoonacular API.
 
